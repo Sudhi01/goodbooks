@@ -17,6 +17,14 @@ const bookList = {
     {
       name: "Harry Potter and the Sorcerer's Stone",
       rating: "4.5/5"
+    },
+    {
+      name: "The Maid ",
+      rating: "5/5"
+    },
+    {
+      name: "Olga Dies Dreaming",
+      rating: "4.5/5"
     }
   ],
 
@@ -28,6 +36,14 @@ const bookList = {
     {
       name: "Loonshots",
       rating: "5/5"
+    },
+    {
+      name: "The 10 Day MBA",
+      rating: "4/5"
+    },
+    {
+      name: "Rich Dad Poor Dad ",
+      rating: "4.5/5"
     }
   ],
   SelfEsteem: [
